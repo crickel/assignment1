@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  assignment1
 //
 //  Created by Hunter Houston on 1/27/14.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UIButton *changeLabel;
+@interface TableViewController : UITableViewController
+
+
 @end
